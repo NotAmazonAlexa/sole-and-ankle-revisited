@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components/macro';
+import { QUERIES } from '../../constants';
 
 import Header from '../Header';
 import ShoeIndex from '../ShoeIndex';
